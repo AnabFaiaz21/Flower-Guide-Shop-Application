@@ -1,10 +1,8 @@
 tensorflow
-opencv-python-headless
 streamlit==1.24.1
 openai
 Pillow
 requests
-os-sys
 numpy
 streamlit_lottie
 python-dotenv
