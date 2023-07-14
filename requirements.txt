@@ -2,10 +2,10 @@ tensorflow
 opencv-python-headless
 streamlit==1.24.1
 openai
-PIL
+Pillow
 requests
-os
+os-sys
 numpy
 streamlit_lottie
-dotenv
+python-dotenv
 matplotlib
