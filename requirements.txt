@@ -7,3 +7,5 @@ requests
 os
 numpy
 streamlit_lottie
+dotenv
+matplotlib
