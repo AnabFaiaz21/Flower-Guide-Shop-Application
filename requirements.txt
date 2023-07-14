@@ -9,3 +9,4 @@ numpy
 streamlit_lottie
 python-dotenv
 matplotlib
+spacy-lookups-data
