@@ -5,7 +5,7 @@ The Flower Guide Shop is an interactive web application that utilizes a Convolut
 ## Features
 **Flower Classification:** Upload an image of a flower, and the app uses a CNN model to predict the flower type from the following classes: Daisy, Dandelion, Rose, Sunflower, and Tulip.
 
-**Detailed Flower Guide:** Once the flower type is predicted, the app displays a detailed flower guide, including the scientific name, sun needs, soil needs, blooming season, and other interesting features of the flower.
+**Detailed Flower Guide:** Once the flower type is predicted, the app displays a detailed flower guide, including the scientific name, sun needs, soil needs, blooming season, and other interesting features with the help of Openai API.
 
 ## How the app works
 Here are some example images demonstrating the working of the Flower Guide Shop app:
