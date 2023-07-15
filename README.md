@@ -2,6 +2,8 @@
 
 The Flower Guide Shop is an interactive web application that utilizes a Convolutional Neural Network (CNN) model to classify flower images and provides detailed information about the flowers. The app allows users to upload an image of a flower, and based on the trained CNN model, it predicts the flower type and provides a comprehensive flower guide.
 
+[**Check It Out!!!!**](https://part2miniproject-xyoq9ngq80m.streamlit.app/)
+
 ## Features
 **Flower Classification:** Upload an image of a flower, and the app uses a CNN model to predict the flower type from the following classes: Daisy, Dandelion, Rose, Sunflower, and Tulip.
 
